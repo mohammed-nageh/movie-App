@@ -1,0 +1,401 @@
+
+
+.mov-con{
+    transform: translateY(164px);
+}
+
+
+.hfour{
+    transform: translateX(86px);
+}
+
+
+.all{
+        transform: translateX(86px);
+}
+
+.hone{
+    display: flex;
+    justify-content: flex-end;
+    color: red;
+}
+
+
+
+.back-one{
+    background: url("../asstes/images/upcome/u1.jpg") center no-repeat; 
+    width: 100px;
+    height: 365px;
+    background-size: cover;
+}
+
+
+.back-one:hover{
+    border-left: red solid 5px;
+    transform: scale(1.1);
+    transition: .2s ease-in;
+    position: relative;
+    z-index: 1;
+}
+
+
+
+.back-one h1 , p {
+    padding-left: 19px;
+}
+
+
+.back-one-h1{
+    color: white;
+    padding-top: 20px;
+}
+
+.back-one-p{
+color: white;
+}
+
+.back-one-bnt{
+    transform: translateX(21px);
+    background-color: red;
+    width: 150px;
+    border: none;
+    text-transform: uppercase;
+    color: white;
+}
+
+.back-one-bnt:hover{
+background-color: rgb(137, 0, 0);
+}
+
+
+
+.back-two{
+    background: url("../asstes/images/upcome/u2.jpg") center no-repeat; 
+    width: 100px;
+    height:365px;
+    
+    background-size: cover;
+}
+
+.back-two:hover{
+    border-left: red solid 5px;
+    transform: scale(1.1);
+    transition: .2s ease-in;
+    position: relative;
+    z-index: 1;
+    
+}
+
+
+
+.back-two h1 , p {
+    padding-left: 19px;
+}
+
+
+.back-two-h1{
+    color: white;
+    padding-top: 20px;
+}
+
+.back-two-p{
+color: white;
+}
+
+.back-two-bnt{
+    transform: translateX(21px);
+    background-color: red;
+    width: 150px;
+    border: none;
+    text-transform: uppercase;
+    color: white;
+}
+
+.back-two-bnt:hover{
+background-color: rgb(137, 0, 0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.back-there{
+    background: url("../asstes/images/upcome/u3.jpg") center no-repeat; 
+    width: 100px;
+    height: 365px;
+    
+    background-size: cover;
+}
+.back-there:hover{
+    border-left: red solid 5px;
+    transform: scale(1.1);
+    transition: .2s ease-in;
+    position: relative;
+    z-index: 1;
+    
+}
+
+
+
+.back-there h1 , p {
+    padding-left: 19px;
+}
+
+
+.back-there-h1{
+    color: white;
+    padding-top: 20px;
+}
+
+.back-there-p{
+color: white;
+}
+
+.back-there-bnt{
+    transform: translateX(21px);
+    background-color: red;
+    width: 150px;
+    border: none;
+    text-transform: uppercase;
+    color: white;
+}
+
+.back-there-bnt:hover{
+background-color: rgb(137, 0, 0);
+}
+
+
+
+.back-four{
+    background: url("../asstes/images/upcome/u4.jpg") center no-repeat; 
+    width: 100px;
+    height: 365px;
+    
+    background-size: cover;
+}
+
+
+.back-four:hover{
+    border-left: red solid 5px;
+    transform: scale(1.1);
+    transition: .2s ease-in;
+    position: relative;
+    z-index: 1;
+    
+}
+
+
+
+.back-four h1 , p {
+    padding-left: 19px;
+}
+
+
+.back-four-h1{
+    color: white;
+    padding-top: 20px;
+}
+
+.back-four-p{
+color: white;
+}
+
+.back-four-bnt{
+    transform: translateX(21px);
+    background-color: red;
+    width: 150px;
+    border: none;
+    text-transform: uppercase;
+    color: white;
+}
+
+.back-four-bnt:hover{
+background-color: rgb(137, 0, 0);
+}
+
+
+
+.back-five{
+    background: url("../asstes/images/upcome/u5.jpg") center no-repeat; 
+    width: 100px;
+    height: 365px;
+    
+    background-size: cover;
+}
+
+
+
+
+
+.back-five:hover{
+    border-left: red solid 5px;
+    transform: scale(1.1);
+    transition: .2s ease-in;
+    position: relative;
+    z-index: 1;
+    
+}
+
+
+
+.back-five h1 , p {
+    padding-left: 19px;
+}
+
+
+.back-five-h1{
+    color: white;
+    padding-top: 20px;
+}
+
+.back-five-p{
+color: white;
+}
+
+.back-five-bnt{
+    transform: translateX(21px);
+    background-color: red;
+    width: 150px;
+    border: none;
+    text-transform: uppercase;
+    color: white;
+}
+
+.back-five-bnt:hover{
+background-color: rgb(137, 0, 0);
+}
+
+
+.back-six{
+    background: url("../asstes/images/upcome/u6.png") center no-repeat; 
+    width: 100px;
+    height: 365px;
+    
+    background-size: cover;
+}
+
+
+
+
+.back-six:hover{
+    border-left: red solid 5px;
+    transform: scale(1.1);
+    transition: .2s ease-in;
+    position: relative;
+    z-index: 1;
+    
+}
+
+.back-six h1 , p {
+    padding-left: 19px;
+}
+
+
+.back-six-h1{
+    color: white;
+    padding-top: 20px;
+}
+
+.back-six-p{
+color: white;
+}
+
+.back-six-bnt{
+    transform: translateX(21px);
+    background-color: red;
+    width: 150px;
+    border: none;
+    text-transform: uppercase;
+    color: white;
+}
+
+.back-six-bnt:hover{
+background-color: rgb(137, 0, 0);
+}
+
+.back-seven{
+    background: url("../asstes/images/upcome/u7.jpg") center no-repeat; 
+    width: 100px;
+    height: 365px;
+    
+    background-size: cover;
+}
+
+
+.back-seven:hover{
+    border-left: red solid 5px;
+    transform: scale(1.1);
+    transition: .2s ease-in;
+    position: relative;
+    z-index: 1;
+    
+}
+
+
+
+.back-seven h1 , p {
+    padding-left: 19px;
+}
+
+
+.back-seven-h1{
+    color: white;
+    padding-top: 20px;
+}
+
+.back-seven-p{
+color: white;
+}
+
+.back-seven-bnt{
+    transform: translateX(21px);
+    background-color: red;
+    width: 150px;
+    border: none;
+    text-transform: uppercase;
+    color: white;
+}
+
+.back-seven-bnt:hover{
+background-color: rgb(137, 0, 0);
+}
+
+.up{
+    color: white;
+    text-transform: uppercase;
+}
+
+
+.slider-container{
+    margin-top: 200px;
+}
+
+
+@media (max-width:767px) {
+    .up{
+        transform: translateY(38px);
+    }
+    .hfour{
+        position: relative;
+        left: 159px;
+    }
+    .all{
+        position: relative;
+        left: -27px;
+        top: -39px;
+    }
+    .slider-container{
+        width: 159%;
+    }
+   
+}

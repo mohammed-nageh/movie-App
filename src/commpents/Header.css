@@ -1,0 +1,112 @@
+
+
+.move{
+    transform: translateY(278px);
+}
+
+.mySwiper{
+    width: 101%;
+}
+
+
+
+.img-one{
+    background: url("../asstes/images/home1.jpg") center no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 100%;
+    height: 791px;
+   
+    
+}
+
+
+.img-two{
+    background: url("../asstes/images/home2.jpg") center no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 791px;
+   
+}
+.img-there{
+    background: url("../asstes/images/home3.jpg") center no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 791px;
+      
+}
+
+.img-four{
+    background: url("../asstes/images/home4.jpg") center no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 791px;
+   
+}
+
+
+
+.mo{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.bnt{
+    background-color: red;
+    padding: 10px;
+    width: 200px;
+    border: none;
+    text-transform: uppercase;
+    color: white;
+    position: relative;
+    left:52px ;
+    
+}
+
+.bnt:hover{
+    background-color: rgb(137, 0, 0);
+}
+
+.hd{
+   color: red;
+   text-transform: uppercase; 
+   transform: translateX(-10px);
+    
+}
+
+.plsheader{
+position: relative;
+left:35px ;
+}
+
+.head-p{
+    color: white;
+    font-weight: bold;
+}
+
+
+@media (max-width:767px) {
+    .mySwiper{
+        width: 166%;
+    }
+   .hd{
+    position: relative;
+        left: 23px;
+        top: 8px;
+   }
+   .plsheader{
+    position: relative;
+    left:17px ;
+    }
+    .bnt{
+        position: relative;
+        left:36px ;
+    }
+    .head-p{
+        font-size: 22px;
+    }
+}
+
+
+

@@ -1,0 +1,27 @@
+
+
+
+.navbar{
+    background-color: rgba(0, 0, 0, 86%);
+    position: fixed;
+    z-index: 5;
+    max-width: 100%;
+    width: 100%;
+    
+}
+
+
+.navbar-nav li {
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+
+.navbar-nav li a{
+    color: white !important;
+}
+
+.hav:hover{
+    color: red !important;
+}
+

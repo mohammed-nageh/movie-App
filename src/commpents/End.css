@@ -1,0 +1,105 @@
+.move{
+    transform: translateY(278px);
+}
+
+.mySwiper{
+    width: 101%;
+}
+
+
+
+.img-oneSecond{
+    background: url("../asstes/images/img/slide1.png") center no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 100%;
+    height: 791px;
+   
+    
+}
+
+
+.img-twoSecond{
+    background: url("../asstes/images/img/slide2.jpg") center no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 791px;
+   
+}
+.img-thereSecond{
+    background: url("../asstes/images/img/slide3.jpg") center no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 791px;
+      
+}
+
+
+
+
+
+.mo{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.bnt{
+    background-color: red;
+    padding: 10px;
+    width: 200px;
+    border: none;
+    text-transform: uppercase;
+    color: white;
+    position: relative;
+    left:52px ;
+    
+}
+
+.bnt:hover{
+    background-color: rgb(137, 0, 0);
+}
+
+.hd{
+   color: red;
+   text-transform: uppercase; 
+   transform: translateX(-10px);
+    
+}
+
+.plsheader{
+position: relative;
+left:35px ;
+}
+
+.head-p{
+    color: white;
+    font-weight: bold;
+}
+
+.second{
+    margin-top: 100px;
+}
+
+
+@media (max-width:767px) {
+    .mySwiper{
+        width: 166%;
+    }
+   .hd{
+    position: relative;
+        left: 23px;
+        top: 8px;
+   }
+   .plsheader{
+    position: relative;
+    left:17px ;
+    }
+    .bnt{
+        position: relative;
+        left:36px ;
+    }
+    .head-p{
+        font-size: 22px;
+    }
+}

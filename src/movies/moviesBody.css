@@ -1,0 +1,35 @@
+.movSeries{
+    margin-top: 100px;
+}
+
+.movies{
+    height: 400px;
+    
+}
+
+
+
+.card{
+    border: none !important;
+    margin: 30px 0 !important;
+}
+
+.card:hover{
+    transform: scale(1.1);
+    transition: .2s ease-in;
+    
+}
+
+.p-series{
+    text-transform: uppercase;
+    font-weight: bold;
+    transform: translateX(-15px);
+}
+
+
+
+@media (max-width:767px) {
+  .cnt{
+    transform: translateX(25px);
+  }
+}
